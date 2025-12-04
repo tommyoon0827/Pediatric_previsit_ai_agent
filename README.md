@@ -1,4 +1,4 @@
-# 우리아이들병원 Pediatric Pre-visit Survey & CDSS Agent  
+# Pediatric Pre-visit Survey & CDSS Agent  
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B.svg)  
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI_GPT--4o--mini-412991.svg)  
