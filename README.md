@@ -31,7 +31,7 @@ infant_survey_app_eng/ # English UI & responses
 
 ### 1. Dynamic Survey Generation  
 Automatically calculates the child's age in days and loads the correct age-appropriate survey.  
-<img width="623" height="302" alt="image" src="https://github.com/user-attachments/assets/40bc6b42-b5d1-4131-91ac-dcf253b8cbe6" />
+
 
 
 ---
