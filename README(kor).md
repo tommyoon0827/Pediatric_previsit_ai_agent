@@ -1,4 +1,4 @@
-# 우리아이들병원 Pediatric Pre-visit Survey & CDSS Agent  
+# Pediatric Pre-visit Survey & CDSS Agent  
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B.svg)  
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI_GPT--4o--mini-412991.svg)  
@@ -7,7 +7,7 @@
 ---
 
 ## 프로젝트 소개
-**Smart Pediatric Pre-visit Survey & CDSS Agent**는 우리아이들 소아병원 데이터로 개발된, 한국어와 영어를 모두 지원하는 소아과용 지능형 사전 문진 및 임상 의사결정 지원 시스템입니다.
+**Smart Pediatric Pre-visit Survey & CDSS Agent**는 소아병원 데이터로 개발된, 한국어와 영어를 모두 지원하는 소아과용 지능형 사전 문진 및 임상 의사결정 지원 시스템입니다.
 
 본 시스템은 다음 기능을 제공합니다:  
 - **연령 맞춤형 동적 문진 시스템**,  
