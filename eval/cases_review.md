@@ -1,0 +1,44 @@
+# Evaluation set review
+
+| # | Group | Age | Category | Question | Flagged answer | Hospital criteria |
+|---|---|---|---|---|---|---|
+| 1 | clinical | 14–35 days | Hearing | Does the child wake up, startle, or show a change in facial expression when there is a loud noise? | No | Good: No abnormal findings in the questionnaire and physical examination (marked sections). |
+| 2 | clinical | 14–35 days | Hearing | Did the child undergo the Newborn Hearing Screening? (Within 1 month of expected due date for premature infants) | Not Taken | Detailed evaluation is needed if the screening was not taken or if a re-test is required for even one ear. |
+| 3 | clinical | 14–35 days | Hearing | Were there any abnormal findings in the Newborn Hearing Screening? | Yes | If there is a re-test result or abnormal findings in the hearing screening. |
+| 4 | clinical | 4–6 months | Hearing | Does the child make various sounds (ah, woo, ee) or make sounds when laughing? | No | Good: No abnormal findings in the questionnaire and physical examination (marked sections). |
+| 5 | clinical | 4–6 months | Hearing | Has the child been hospitalized in the Neonatal Intensive Care Unit (NICU) for more than 5 days after birth? | Yes | If there is a history of NICU admission for more than 5 days. |
+| 6 | clinical | 4–6 months | Hearing | Did you receive a 're-test' judgment for one or both ears in the Newborn Hearing Screening? | Yes | If re-test judgment received, ENT treatment needed within 3 months. |
+| 7 | clinical | 18–24 months | Hearing | Is there anyone in the family (parents or relatives) who has had hearing loss since childhood? | Yes | If part of a high-risk group for hereditary hearing loss. |
+| 8 | clinical | 30–36 months | Hearing | Has the child suffered from acute otitis media (ear pain, fever, etc.) multiple times? (More than 4 times in 6 months, or more than 6 times in 1 year) | Yes | If there is a history of recurrent otitis media. |
+| 9 | clinical | 54–60 months | Hearing | Does the child have trouble hearing or problems with hearing? | Yes | If hearing loss is suspected by guardian observation. |
+| 10 | clinical | 54–60 months | Hearing | Did the child undergo a hearing test (Pure Tone Audiometry) for kindergarten/elementary school life? | Not Taken | Early evaluation needed if hearing test not performed. |
+| 11 | clinical | 14–35 days | Congenital Metabolic Disorders | Has the newborn undergone the screening for congenital metabolic disorders (Newborn Screening)? | No | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Any abnormality or blank response |
+| 12 | clinical | 14–35 days | Congenital Metabolic Disorders | Did the newborn receive a 'Normal' (Negative or No Abnormality) result in the screening for congenital metabolic disorders? | No | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Any abnormality or blank response |
+| 13 | clinical | 14–35 days | Developmental Dysplasia of the Hip (DDH) Screening | Did the fetus remain in a breech position (legs pointing downward) until late pregnancy? | Yes | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Abnormal findings or blank |
+| 14 | clinical | 14–35 days | Developmental Dysplasia of the Hip (DDH) Screening | Was there a history of oligohydramnios (deficient amniotic fluid)? | Yes | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Abnormal findings or blank |
+| 15 | clinical | 14–35 days | Developmental Dysplasia of the Hip (DDH) Screening | Is there a family history (parents or siblings) of Developmental Dysplasia of the Hip (DDH)? | Yes | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Abnormal findings or blank |
+| 16 | clinical | 4–6 months | Developmental Dysplasia of the Hip (DDH) Screening | Has the child ever undergone a hip ultrasound regarding Developmental Dysplasia of the Hip (DDH)? | No | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Abnormal findings or blank |
+| 17 | clinical | 14–35 days | Vision | Are there any abnormal findings in the eyeballs? | Yes | Good: No abnormal findings in the questionnaire and examination (marked sections) / Detailed Evaluation Needed: Any abnormal finding in even one item |
+| 18 | clinical | 14–35 days | Vision | Is there a family history of hereditary eye diseases (e.g., Retinoblastoma, Congenital Cataracts, Congenital Glaucoma)? | Yes | Detailed Evaluation Needed if there is a family history of hereditary diseases. |
+| 19 | clinical | 4–6 months | Vision | Does the child make good eye contact? | No | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Any abnormal finding in even one item |
+| 20 | clinical | 4–6 months | Vision | Do the child's eyes turn inward (esotropia) or drift outward (exotropia) without focus? | Yes | Detailed Evaluation Needed if there is continuous deviation inward or outward. |
+| 21 | clinical | 4–6 months | Vision | Is the child's pupil (black center of the eye) cloudy? | Yes | Detailed Evaluation Needed if there is pupil opacity or white reflex. |
+| 22 | clinical | 9–12 months | Vision | Is there a difference between the child's two pupils (size, color, light reflex)? | Yes | Detailed Evaluation Needed if there is a difference in pupil size (anisocoria), color, or red reflex. |
+| 23 | clinical | 18–24 months | Vision | Does the child have difficulty making eye contact, or do the eyes shake/tremble (nystagmus)? | Yes | Good: No abnormal findings in the questionnaire and examination / Detailed Evaluation Needed: Any abnormal finding in even one item |
+| 24 | clinical | 18–24 months | Vision | Does the child consistently turn their face to the side or tilt their head when looking at objects in front? | Yes | Detailed Evaluation Needed if forward fixation is poor or specific head posture is maintained. |
+| 25 | clinical | 18–24 months | Vision | Does the child get too close to books, TV, or objects, or squint when looking at them? | Yes | Detailed Evaluation Needed if focus is only at close range or squinting persists. |
+| 26 | clinical | 30–36 months | Vision | Do you feel there is a difference in vision between the two eyes when covering one eye? | Yes | Detailed Evaluation Needed if binocular vision difference is suspected. |
+| 27 | clinical | 42–48 months | Vision | Do the child's eyes occasionally turn inward or outward? | Yes | Detailed Evaluation Needed if intermittent strabismus is suspected. |
+| 28 | clinical | 54–60 months | Vision | Do the child's eyes occasionally look blank or unfocused? | Yes | Good: No abnormality / Detailed Evaluation: Any abnormality present |
+| 29 | clinical | 18–24 months | Oral Health | Are there any teeth suspected of having cavities, or teeth with abnormal color or shape? | Yes | Yes = Detailed Evaluation Needed, No = Good |
+| 30 | clinical | 36–48 months | Bowel/Bladder Habits | Has the child experienced straining during defecation or gone more than 3 days without a bowel movement? | Yes | Yes = Detailed Evaluation Needed, No = Good |
+| 31 | lifestyle | 14–35 days | Personal Hygiene | Do you ever kiss the baby directly on the lips? | Yes | Yes = Caution Needed |
+| 32 | lifestyle | 14–35 days | Personal Hygiene | Do you always wash your hands after changing the child's diaper? | No | Yes = Good, No = Hygiene Education Needed |
+| 33 | lifestyle | 14–35 days | Nutrition & Feeding | Vitamin D may be insufficient for exclusively breastfed babies. Are you supplementing Vitamin D? | No | Yes = Good, No/Don't Know = Nutrition Guidance Needed |
+| 34 | lifestyle | 14–35 days | Nutrition & Feeding | Have you ever stopped breastfeeding due to jaundice? | Yes | Yes = Caution, No = Good |
+| 35 | lifestyle | 18–24 months | Oral Health | Do you provide nighttime feeding (including both breastfeeding and bottle-feeding)? | Yes | Yes = Abnormal, No = Good |
+| 36 | lifestyle | 18–24 months | Nutrition & Feeding | Does the child drink sweetened beverages or fruit juices? | Yes | Yes = Caution Needed, No = Good |
+| 37 | lifestyle | 30–36 months | Nutrition & Feeding | Does the child eat three meals a day? | No | Yes = Good, No = Caution |
+| 38 | lifestyle | 54–60 months | Nutrition & Feeding | Does the child spend more than 2 hours a day on TV, videos, smartphones, or games? | Yes | Yes = Caution, No = Good |
+| 39 | lifestyle | 66–71 months | Personal Hygiene | Does the child cover their mouth with their hands when coughing or sneezing? | Yes | Yes = Caution Needed, No = Good |
+| 40 | lifestyle | 18–24 months | Nutrition & Feeding | Do you give the child health supplements such as vitamins or minerals in addition to meals? | Yes | Yes = Caution, No = Good |

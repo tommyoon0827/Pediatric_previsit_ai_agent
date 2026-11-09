@@ -1,0 +1,240 @@
+{"case_id": "q-16c99821:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider consulting a pediatrician for further evaluation of the child's response to stimuli.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-16c99821:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5948dc4c:Not Taken", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Newborn Hearing Screening is crucial; please schedule it as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5948dc4c:Taken", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8d4b69e7:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Follow up with a pediatric audiologist for further evaluation of the hearing findings.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8d4b69e7:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-202f44aa:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider evaluating the child's auditory and speech development, as they should be making various sounds by this age.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-202f44aa:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e8eb0b66:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Monitor for potential developmental delays and consult a pediatric specialist for further evaluation.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e8eb0b66:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "⚠️ It is important to follow up on hearing screening results to ensure proper auditory development.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider scheduling a hearing evaluation for your child due to family history of hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-340e2d61:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider consulting a pediatrician for evaluation and management of recurrent ear infections.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-340e2d61:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-74becb36:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to have the child's hearing evaluated by a specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-74becb36:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f30085:Not Taken", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to schedule a hearing test to ensure proper auditory development before starting school.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f30085:Taken", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ecdc16a:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to ensure that the newborn undergoes screening for congenital metabolic disorders as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ecdc16a:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e764070b:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Follow up with a pediatric specialist for further evaluation and potential testing.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e764070b:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-70d43ba3:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to discuss potential delivery options and monitoring with your healthcare provider.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-70d43ba3:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-1a5dc447:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Monitor the infant closely for any signs of developmental issues or health concerns due to the history of oligohydramnios.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-1a5dc447:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-6c0726f0:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Monitor the infant closely for any signs of hip issues and consult a pediatrician for further evaluation.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-6c0726f0:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-19827052:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is advisable to consult a pediatrician for a hip ultrasound to rule out Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-19827052:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f466e6ae:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Seek immediate evaluation by a pediatric ophthalmologist for abnormal findings in the eyeballs.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f466e6ae:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-18c478fc:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider scheduling a pediatric ophthalmology evaluation to assess potential hereditary eye conditions.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-18c478fc:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-2148c213:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider evaluating the child's vision and social engagement with a pediatric specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-2148c213:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f71fc0:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to consult a pediatric ophthalmologist for evaluation of the child's eye alignment.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f71fc0:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f4b2a225:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ The child should be evaluated by a pediatric ophthalmologist for potential eye issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f4b2a225:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-28825110:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Please consult a pediatrician to evaluate the differences in your child's pupils.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-28825110:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-03c7c3ec:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to consult a pediatric specialist for an evaluation of potential vision or developmental issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-03c7c3ec:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "⚠️ Consider evaluating the child's visual tracking and head movement with a pediatric specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider scheduling an eye examination to assess for potential vision issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-13b434c4:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to have a comprehensive eye examination to assess any potential vision issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-13b434c4:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f413a53a:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider consulting a pediatric ophthalmologist for evaluation of the child's eye alignment.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5dd158b4:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider consulting a pediatric ophthalmologist to evaluate the child's vision and eye health.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5dd158b4:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-12d181f1:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ It is important to schedule a dental evaluation to assess the teeth for cavities or abnormalities.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-12d181f1:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-408a5cb2:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consult a pediatrician for evaluation of potential constipation or underlying gastrointestinal issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-408a5cb2:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-4f9d8a27:No", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ It is crucial to wash your hands after changing the child's diaper to prevent infections.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-4f9d8a27:Yes", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-942fd18b:No", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ It is important to start Vitamin D supplementation for exclusively breastfed infants to prevent deficiency.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-942fd18b:Yes", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-77dc0dbb:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Consult a pediatrician for evaluation and management of jaundice in your newborn.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-77dc0dbb:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-0dfb727b:No", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Consider consulting a pediatrician to evaluate the child's eating habits and nutritional intake.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-0dfb727b:Yes", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-9a5b5f55:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Limit screen time to no more than 1-2 hours per day to promote healthy development.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-9a5b5f55:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "⚠️ It is important to teach the child proper hygiene practices, such as covering their mouth when coughing or sneezing.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-cde5cb51:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-cde5cb51:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-16c99821:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider consulting a pediatrician for further evaluation of the child's response to auditory stimuli.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-16c99821:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5948dc4c:Not Taken", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Newborn Hearing Screening is crucial; please schedule this test as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5948dc4c:Taken", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8d4b69e7:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Follow up with a pediatric audiologist for further evaluation of the hearing findings.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8d4b69e7:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-202f44aa:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider evaluating the child's auditory and speech development, as they should be making various sounds by this age.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-202f44aa:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e8eb0b66:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Monitor for potential developmental delays and consult a pediatric specialist for further evaluation.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e8eb0b66:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "⚠️ It is important to follow up with a hearing specialist to ensure proper hearing development.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider having the child's hearing evaluated by a specialist due to family history of hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-340e2d61:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider consulting a pediatrician for evaluation and management of recurrent ear infections.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-340e2d61:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-74becb36:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ It is important to have the child's hearing evaluated by a specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-74becb36:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f30085:Not Taken", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ It is important to schedule a hearing test to ensure proper auditory development before starting school.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f30085:Taken", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ecdc16a:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ It is important to ensure that the newborn undergoes screening for congenital metabolic disorders as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ecdc16a:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e764070b:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Follow up with a pediatric specialist for further evaluation and potential testing.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e764070b:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-70d43ba3:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consult with a pediatric specialist to discuss potential implications of breech position during late pregnancy.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-70d43ba3:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-1a5dc447:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Monitor the infant closely for any signs of developmental issues or health concerns due to the history of oligohydramnios.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-1a5dc447:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-6c0726f0:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider scheduling an evaluation with a pediatric specialist to assess the risk of Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-6c0726f0:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-19827052:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ It is advisable to consult a pediatrician for a hip ultrasound to rule out Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-19827052:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f466e6ae:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Seek immediate evaluation by a pediatric ophthalmologist for abnormal findings in the eyeballs.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f466e6ae:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-18c478fc:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider scheduling a pediatric ophthalmology evaluation to assess the risk of hereditary eye diseases.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-18c478fc:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-2148c213:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider evaluating the child's eye contact and social engagement with a pediatric specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-2148c213:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f71fc0:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Please consult a pediatric ophthalmologist for evaluation of potential eye alignment issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f71fc0:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f4b2a225:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ The child should be evaluated by a pediatric ophthalmologist as cloudy pupils can indicate a serious condition.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f4b2a225:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-28825110:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Please consult a pediatrician to evaluate the differences in pupil size and reflexes.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-28825110:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-03c7c3ec:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ It is important to consult a pediatric specialist for an evaluation of potential vision or developmental issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-03c7c3ec:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "⚠️ Consider evaluating the child's visual tracking and head movement with a pediatric specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider scheduling an eye examination to assess for potential vision issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-13b434c4:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ It is important to have a comprehensive eye examination to assess any potential vision issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-13b434c4:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f413a53a:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider consulting a pediatric ophthalmologist for evaluation of the child's eye alignment.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5dd158b4:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider consulting a pediatric ophthalmologist to evaluate the child's vision and eye health.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5dd158b4:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-12d181f1:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ It is important to schedule a dental evaluation to assess the teeth for cavities or abnormalities.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-12d181f1:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-408a5cb2:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consult a pediatrician for evaluation of potential constipation or underlying gastrointestinal issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-408a5cb2:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-4f9d8a27:No", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ It is crucial to always wash your hands after changing the child's diaper to prevent infections.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-4f9d8a27:Yes", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-942fd18b:No", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ It is important to start Vitamin D supplementation for exclusively breastfed infants to prevent deficiency.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-942fd18b:Yes", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-77dc0dbb:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Consult a pediatrician for evaluation and management of jaundice in the newborn.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-77dc0dbb:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-0dfb727b:No", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Consider consulting a pediatrician to evaluate the child's eating habits and nutritional intake.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-0dfb727b:Yes", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-9a5b5f55:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Limit screen time to no more than 1-2 hours per day to promote healthy development.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-9a5b5f55:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "⚠️ It is important to teach the child proper hygiene practices, such as covering their mouth when coughing or sneezing.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-cde5cb51:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-cde5cb51:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-16c99821:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider consulting a pediatrician to evaluate the child's response to auditory stimuli.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-16c99821:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5948dc4c:Not Taken", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to schedule a Newborn Hearing Screening as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5948dc4c:Taken", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8d4b69e7:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Follow up with a pediatric audiologist for further evaluation of the hearing findings.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8d4b69e7:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-202f44aa:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider consulting a pediatrician for a developmental evaluation.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-202f44aa:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e8eb0b66:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Monitor for potential developmental delays and consult a pediatric specialist for further evaluation.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e8eb0b66:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "⚠️ It is important to follow up on hearing screening results to ensure proper auditory development.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider scheduling a hearing evaluation for your child to assess any potential hearing issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-340e2d61:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider consulting a pediatrician for evaluation and management of recurrent ear infections.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-340e2d61:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-74becb36:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to have the child's hearing evaluated by a specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-74becb36:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f30085:Not Taken", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to schedule a hearing test to ensure proper auditory development before starting school.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f30085:Taken", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ecdc16a:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to ensure that the newborn undergoes screening for congenital metabolic disorders as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ecdc16a:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e764070b:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ The newborn should undergo further evaluation for potential metabolic disorders.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e764070b:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-70d43ba3:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to discuss the breech position with a pediatric specialist to assess any potential implications for delivery and newborn care.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-70d43ba3:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-1a5dc447:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Monitor the infant closely for any signs of developmental issues or health concerns due to the history of oligohydramnios.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-1a5dc447:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-6c0726f0:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider scheduling an evaluation with a pediatric specialist to assess the risk of Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-6c0726f0:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-19827052:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is advisable to consult a pediatrician for a hip ultrasound to rule out Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-19827052:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f466e6ae:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Seek immediate evaluation by a pediatric ophthalmologist for abnormal findings in the eyeballs.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f466e6ae:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-18c478fc:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider scheduling a pediatric ophthalmology evaluation to assess potential hereditary eye conditions.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-18c478fc:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-2148c213:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider evaluating the child's eye contact and social engagement with a pediatric specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-2148c213:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f71fc0:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to consult a pediatric ophthalmologist for evaluation of the child's eye alignment.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f71fc0:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f4b2a225:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ The child should be evaluated by a pediatric ophthalmologist as cloudy pupils can indicate a serious condition.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f4b2a225:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-28825110:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Please consult a pediatrician to evaluate the differences in pupil size, color, and light reflex.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-28825110:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-03c7c3ec:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ The child should be evaluated by a specialist for potential vision or developmental issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-03c7c3ec:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "⚠️ Consider evaluating the child's visual tracking and head movement with a pediatric specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider scheduling an eye examination to assess for potential vision issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-13b434c4:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to have a comprehensive eye examination to assess any potential vision issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-13b434c4:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f413a53a:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider consulting a pediatric ophthalmologist for evaluation of the child's eye alignment.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5dd158b4:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider consulting a pediatric ophthalmologist to evaluate the child's vision and eye health.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5dd158b4:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-12d181f1:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ It is important to schedule a dental evaluation to assess the teeth for cavities or abnormalities.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-12d181f1:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-408a5cb2:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consult a pediatrician for evaluation of potential constipation or underlying gastrointestinal issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-408a5cb2:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-4f9d8a27:No", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ It is crucial to wash your hands after changing the child's diaper to prevent infections.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-4f9d8a27:Yes", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-942fd18b:No", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ It is important to start Vitamin D supplementation for exclusively breastfed infants to prevent deficiency.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-942fd18b:Yes", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-77dc0dbb:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Consult a pediatrician for evaluation and management of jaundice in your newborn.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-77dc0dbb:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-0dfb727b:No", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Consider consulting a pediatrician to evaluate the child's eating habits and nutritional intake.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-0dfb727b:Yes", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-9a5b5f55:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Limit screen time to no more than 1-2 hours per day to promote healthy development.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-9a5b5f55:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "⚠️ It is important to teach the child proper hygiene practices, such as covering their mouth when coughing or sneezing.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-cde5cb51:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-cde5cb51:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}

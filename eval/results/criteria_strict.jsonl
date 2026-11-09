@@ -1,0 +1,240 @@
+{"case_id": "q-16c99821:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A visit to an ENT specialist is recommended to evaluate potential hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-16c99821:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5948dc4c:Not Taken", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Newborn Hearing Screening must be performed within 1 month of birth.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5948dc4c:Taken", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8d4b69e7:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ An ENT visit and detailed hearing test (ABR) must be performed within 3 months.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8d4b69e7:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-202f44aa:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A detailed hearing test at an ENT clinic is required due to the lack of sound production.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-202f44aa:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e8eb0b66:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A detailed hearing test (ABR) is recommended before 6 months of age due to the history of NICU admission for more than 5 days.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e8eb0b66:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d32637b1:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Follow-up tests every 6 months are necessary due to family history of hereditary hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-340e2d61:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Specialist evaluation is recommended due to recurrent otitis media, as it poses a risk for hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-340e2d61:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-74becb36:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A hearing test via ENT visit is required.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-74becb36:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f30085:Not Taken", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A hearing test is recommended before entering elementary school; please schedule one as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f30085:Taken", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ecdc16a:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Newborn Screening for metabolic disorders is mandatory; please arrange for testing as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ecdc16a:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e764070b:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Additional testing is required; please consult with the public health center or obstetrics clinic.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e764070b:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-70d43ba3:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Referral to a pediatric orthopedic specialist is recommended due to the breech position being a risk factor for developmental dysplasia of the hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-70d43ba3:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-1a5dc447:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Orthopedic evaluation is needed due to the history of oligohydramnios.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-1a5dc447:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-6c0726f0:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Orthopedic consultation and hip ultrasound are recommended due to family history of Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-6c0726f0:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-19827052:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A hip ultrasound is necessary to evaluate for Developmental Dysplasia of the Hip (DDH); please consult an orthopedic specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-19827052:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f466e6ae:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Immediate evaluation by an ophthalmologist is required due to abnormal findings in the eyeballs.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f466e6ae:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-18c478fc:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Early evaluation by an ophthalmologist is crucial due to the family history of hereditary eye diseases.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-18c478fc:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-2148c213:No", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Consider a detailed evaluation by an ophthalmologist due to lack of eye contact.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-2148c213:Yes", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f71fc0:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Early evaluation by a pediatric ophthalmologist is recommended to assess for potential strabismus.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f71fc0:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f4b2a225:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Immediate referral to pediatric ophthalmology is required due to the presence of cloudy pupils.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f4b2a225:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-28825110:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Immediate ophthalmology referral is necessary to evaluate the differences in the child's pupils.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-28825110:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-03c7c3ec:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Early ophthalmological evaluation is recommended due to the presence of nystagmus.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-03c7c3ec:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "⚠️ Early evaluation for potential strabismus or other visual issues is recommended.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ An ophthalmology consultation is recommended to evaluate for possible refractive errors.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-13b434c4:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Immediate referral to ophthalmology is advised for evaluation of potential amblyopia or anisometropia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-13b434c4:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f413a53a:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A detailed evaluation for strabismus is needed.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5dd158b4:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A visual acuity test is recommended to evaluate for potential strabismus or amblyopia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5dd158b4:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-12d181f1:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ A visit to a pediatric dentist is recommended for a detailed evaluation of the suspected cavities or abnormal teeth.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-12d181f1:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-408a5cb2:Yes", "group": "clinical", "expect": "alert", "run": 0, "raw": "⚠️ Increase fluid intake and maintain a fiber-rich diet.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-408a5cb2:No", "group": "clinical", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Avoid kissing the baby directly on the lips to reduce the risk of infection.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ad31464:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-4f9d8a27:No", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Please ensure to wash your hands after changing the child's diaper to prevent the transmission of viruses.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-4f9d8a27:Yes", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-942fd18b:No", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Consider starting Vitamin D supplementation of 400 IU daily for your exclusively breastfed baby.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-942fd18b:Yes", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-77dc0dbb:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Seek medical evaluation for potential pathological jaundice.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-77dc0dbb:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Nighttime feeding should be stopped as it increases the risk of dental caries.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8aea47ec:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Limit sweetened beverages and fruit juices; opt for water or unsweetened tea to prevent obesity and cavities.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e88a1d79:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-0dfb727b:No", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Encourage the child to eat three meals a day for proper growth and energy balance.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-0dfb727b:Yes", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-9a5b5f55:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Educate to limit digital device use to within 2 hours a day to prevent potential effects on sleep and attention.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-9a5b5f55:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "⚠️ Instruct the child to cover their mouth with a tissue or their sleeve (elbow) to reduce the risk of virus transmission.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-a14f7db4:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "⚠️ Instruct the child to cover their mouth with a tissue or their sleeve (elbow) when coughing or sneezing to reduce the risk of virus transmission.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-cde5cb51:Yes", "group": "lifestyle", "expect": "alert", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-cde5cb51:No", "group": "lifestyle", "expect": "pass", "run": 0, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-16c99821:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A visit to an ENT specialist is recommended to evaluate potential hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-16c99821:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5948dc4c:Not Taken", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Newborn Hearing Screening must be performed immediately, as it was not taken.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5948dc4c:Taken", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8d4b69e7:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ An ENT visit and detailed hearing test (ABR) must be performed within 3 months.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8d4b69e7:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-202f44aa:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A detailed hearing test at an ENT clinic is required due to the lack of sound production.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-202f44aa:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e8eb0b66:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A detailed hearing test (ABR) is recommended before 6 months of age due to the history of NICU admission for more than 5 days.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e8eb0b66:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d32637b1:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Follow-up tests every 6 months are necessary due to family history of hereditary hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-340e2d61:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Specialist evaluation is recommended due to recurrent otitis media.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-340e2d61:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-74becb36:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A hearing test via ENT visit is required.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-74becb36:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f30085:Not Taken", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A hearing test is recommended before entering elementary school; please schedule one as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f30085:Taken", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ecdc16a:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Recommend conducting the Newborn Screening for congenital metabolic disorders as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ecdc16a:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e764070b:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Additional testing is required; please consult with the public health center or obstetrics clinic.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e764070b:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-70d43ba3:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Referral to a pediatric orthopedic specialist is recommended due to the breech position being a risk factor for developmental dysplasia of the hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-70d43ba3:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-1a5dc447:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Orthopedic evaluation is needed due to the history of oligohydramnios.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-1a5dc447:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-6c0726f0:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Orthopedic consultation and hip ultrasound are recommended due to family history of Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-6c0726f0:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-19827052:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A hip ultrasound is necessary to evaluate for Developmental Dysplasia of the Hip (DDH); please consult an orthopedic specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-19827052:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f466e6ae:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Immediate evaluation by an ophthalmologist is required due to abnormal findings in the eyeballs.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f466e6ae:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-18c478fc:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Early evaluation by an ophthalmologist is crucial due to the family history of hereditary eye diseases.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-18c478fc:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-2148c213:No", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Consider a detailed evaluation by an ophthalmologist due to lack of eye contact.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-2148c213:Yes", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f71fc0:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Early evaluation by a pediatric ophthalmologist is recommended to assess for potential strabismus.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f71fc0:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f4b2a225:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Immediate referral to pediatric ophthalmology is required due to the cloudy pupil.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f4b2a225:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-28825110:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Immediate ophthalmology referral is necessary to evaluate the difference in pupil size or color.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-28825110:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-03c7c3ec:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Early ophthalmological evaluation is recommended due to the presence of nystagmus.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-03c7c3ec:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Early evaluation is needed to rule out strabismus or other visual issues.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-da6d875f:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "⚠️ Early evaluation for potential strabismus or other visual issues is recommended.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ An ophthalmology consultation is recommended to evaluate for possible refractive errors.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-13b434c4:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Immediate referral to ophthalmology is advised for evaluation of potential amblyopia or anisometropia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-13b434c4:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "⚠️ Immediate referral to ophthalmology is recommended to evaluate for amblyopia or anisometropia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A detailed evaluation for strabismus is needed.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5dd158b4:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A visual acuity test is recommended to evaluate for potential strabismus or amblyopia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5dd158b4:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-12d181f1:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ A visit to a pediatric dentist is recommended for a detailed evaluation of the suspected cavities or abnormal teeth.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-12d181f1:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-408a5cb2:Yes", "group": "clinical", "expect": "alert", "run": 1, "raw": "⚠️ Seek a detailed evaluation for persistent constipation and consider increasing fluid intake and maintaining a fiber-rich diet.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-408a5cb2:No", "group": "clinical", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Avoid kissing the baby directly on the lips to reduce the risk of infection.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ad31464:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "⚠️ Avoid kissing the baby directly on the lips to reduce the risk of infection.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-4f9d8a27:No", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Please ensure to wash your hands after changing the child's diaper to prevent the transmission of viruses.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-4f9d8a27:Yes", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-942fd18b:No", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Consider starting Vitamin D supplementation of 400 IU daily for your exclusively breastfed baby.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-942fd18b:Yes", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-77dc0dbb:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Seek medical evaluation for potential pathological jaundice.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-77dc0dbb:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Nighttime feeding should be stopped as soon as possible to reduce the risk of dental caries.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8aea47ec:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Limit sweetened beverages and fruit juices to prevent obesity and cavities; encourage water or unsweetened tea instead.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e88a1d79:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-0dfb727b:No", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Encourage the child to eat three meals a day for proper growth and energy balance.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-0dfb727b:Yes", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-9a5b5f55:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Limit screen time to within 2 hours a day to prevent potential negative effects on sleep and attention.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-9a5b5f55:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "⚠️ Instruct the child to cover their mouth with a tissue or their sleeve (elbow) to reduce the risk of virus transmission.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-a14f7db4:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "⚠️ Instruct the child to cover their mouth with a tissue or their sleeve (elbow) when coughing or sneezing to reduce the risk of virus transmission.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-cde5cb51:Yes", "group": "lifestyle", "expect": "alert", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-cde5cb51:No", "group": "lifestyle", "expect": "pass", "run": 1, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-16c99821:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A visit to an ENT specialist is recommended to evaluate potential hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-16c99821:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5948dc4c:Not Taken", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Newborn Hearing Screening must be performed immediately as it was not taken.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5948dc4c:Taken", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8d4b69e7:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ An ENT visit and detailed hearing test (ABR) must be performed within 3 months.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8d4b69e7:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-202f44aa:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A detailed hearing test at an ENT clinic is required due to the lack of sound production.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-202f44aa:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e8eb0b66:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A detailed hearing test (ABR) is recommended before 6 months of age due to the history of NICU admission for more than 5 days.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e8eb0b66:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d1ae7632:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-d32637b1:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Follow-up tests every 6 months are necessary due to family history of hereditary hearing loss.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-d32637b1:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-340e2d61:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Specialist evaluation is recommended due to recurrent otitis media.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-340e2d61:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-74becb36:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A hearing test via ENT visit is required.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-74becb36:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f30085:Not Taken", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A hearing test is recommended before entering elementary school; please schedule one as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f30085:Taken", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ecdc16a:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Recommend testing for congenital metabolic disorders as soon as possible.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ecdc16a:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e764070b:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Additional testing is required; please consult with the public health center or obstetrics clinic.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e764070b:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-70d43ba3:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Referral to a pediatric orthopedic specialist is recommended due to the breech position being a risk factor for developmental dysplasia of the hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-70d43ba3:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-1a5dc447:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Orthopedic evaluation is needed due to the history of oligohydramnios.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-1a5dc447:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-6c0726f0:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Orthopedic consultation and hip ultrasound are recommended due to family history of Developmental Dysplasia of the Hip (DDH).", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-6c0726f0:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-19827052:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A hip ultrasound is necessary to evaluate for Developmental Dysplasia of the Hip (DDH); please consult an orthopedic specialist.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-19827052:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f466e6ae:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Immediate evaluation by an ophthalmologist is required due to the abnormal finding in the eyeballs.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f466e6ae:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-18c478fc:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Early evaluation by an ophthalmologist is crucial due to the family history of hereditary eye diseases.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-18c478fc:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-2148c213:No", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Consider a detailed evaluation by an ophthalmologist due to the lack of good eye contact.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-2148c213:Yes", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e6f71fc0:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Early evaluation by a pediatric ophthalmologist is recommended to assess for potential strabismus.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e6f71fc0:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-f4b2a225:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Immediate referral to pediatric ophthalmology is required due to the presence of cloudy pupils.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f4b2a225:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-28825110:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Immediate ophthalmology referral is necessary to evaluate the difference in pupil size or color.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-28825110:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-03c7c3ec:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Early ophthalmological evaluation is recommended due to the presence of nystagmus.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-03c7c3ec:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-da6d875f:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "⚠️ Early evaluation for potential strabismus or other visual issues is recommended.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ An ophthalmology consultation is needed to evaluate for possible refractive errors.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-b1168e99:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-13b434c4:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Immediate referral to ophthalmology is recommended for evaluation of potential amblyopia or anisometropia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-13b434c4:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "⚠️ Immediate referral to ophthalmology is recommended to evaluate for amblyopia or anisometropia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A detailed evaluation for strabismus is needed.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-f413a53a:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-5dd158b4:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A visual acuity test is recommended to evaluate for potential strabismus or amblyopia.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-5dd158b4:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-12d181f1:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ A visit to a pediatric dentist is recommended for a detailed evaluation of the suspected cavities or abnormal teeth.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-12d181f1:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-408a5cb2:Yes", "group": "clinical", "expect": "alert", "run": 2, "raw": "⚠️ Detailed evaluation is needed for persistent constipation.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-408a5cb2:No", "group": "clinical", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8ad31464:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Avoid kissing the baby directly on the lips to reduce the risk of infection.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8ad31464:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-4f9d8a27:No", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Please ensure to wash your hands after changing the child's diaper to prevent the transmission of viruses.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-4f9d8a27:Yes", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-942fd18b:No", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Consider starting Vitamin D supplementation of 400 IU daily for your exclusively breastfed baby.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-942fd18b:Yes", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-77dc0dbb:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Seek medical evaluation for potential pathological jaundice.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-77dc0dbb:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-8aea47ec:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Nighttime feeding should be stopped as it increases the risk of dental caries.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-8aea47ec:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-e88a1d79:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Limit sweetened beverages and fruit juices; opt for water or unsweetened tea to prevent obesity and cavities.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-e88a1d79:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-0dfb727b:No", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Encourage the child to eat three meals a day for proper growth and energy balance.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-0dfb727b:Yes", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-9a5b5f55:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Limit screen time to within 2 hours a day to prevent potential negative effects on sleep and attention.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-9a5b5f55:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-a14f7db4:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "⚠️ Instruct the child to cover their mouth with a tissue or their sleeve (elbow) to reduce the risk of virus transmission.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-a14f7db4:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "⚠️ Instruct the child to cover their mouth with a tissue or their sleeve (elbow) when coughing or sneezing to reduce the risk of virus transmission.", "error": null, "label": "alert", "app_alert": true}
+{"case_id": "q-cde5cb51:Yes", "group": "lifestyle", "expect": "alert", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}
+{"case_id": "q-cde5cb51:No", "group": "lifestyle", "expect": "pass", "run": 2, "raw": "PASS", "error": null, "label": "pass", "app_alert": false}

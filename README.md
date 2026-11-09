@@ -66,6 +66,15 @@ Caregivers and clinicians can download a comprehensive PDF report.
 
 ---
 
+## Evaluation
+
+The real-time risk alert (feature 4) was evaluated against 40 questionnaire items labelled from the hospital's own criteria.
+The current prompt caught 93.3% of flagged answers with 6.7% false alarms, and two items were judged in the reverse direction.
+Prompt changes traded misses for false alarms, so yes/no items should be decided by rules and the LLM kept for free-text answers and wording.
+Details, results and how to re-run: [eval/README.md](eval/README.md)
+
+---
+
 ##  Directory Structure
 ```plaintext
 root/
