@@ -3,7 +3,7 @@
 - baseline: the app's own get_ai_feedback_message, taken from app.py source as-is
             (only the Streamlit cache decorator is dropped) so the prompt cannot drift.
 - with_criteria: same system prompt, plus the hospital criteria/actions for that question
-                 in the user prompt. The app already loads these fields but never sends them.
+                 in the user prompt. The app shows these fields on screen but does not pass them to the LLM.
 - criteria_strict: with_criteria plus one line telling the model to alert only when the
                    answer itself matches the problem in the criteria.
 

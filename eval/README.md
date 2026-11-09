@@ -1,6 +1,6 @@
 # Evaluation: real-time risk alert
 
-The survey shows an alert right after a guardian answers a question. An LLM (gpt-4o-mini) reads the child's age, the question and the answer, and replies either `PASS` or `⚠️ <advice>` (`get_ai_feedback_message` in `infant_survey_app_eng/app.py`).
+For each question the app shows the hospital's criteria and recommended actions under "Detailed Info". On top of that, it shows an alert right after a guardian answers. An LLM (gpt-4o-mini) reads the child's age, the question and the answer, and replies either `PASS` or `⚠️ <advice>` (`get_ai_feedback_message` in `infant_survey_app_eng/app.py`).
 This folder measures how often that judgement is right.
 
 ## Evaluation set
@@ -19,7 +19,7 @@ The list with the criteria text is in [cases_review.md](cases_review.md); the ca
 | Variant | Prompt |
 |---|---|
 | `baseline` | The app's function, taken from `app.py` source unchanged |
-| `with_criteria` | Same system prompt, plus that question's hospital criteria and actions. The app already loads these fields but never sends them |
+| `with_criteria` | Same system prompt, plus that question's hospital criteria and actions. The app shows these fields to the guardian under "Detailed Info", but the LLM alert is decided without them |
 | `criteria_strict` | `with_criteria` plus one line: alert only if the answer itself matches the problem the criteria describe |
 
 Each case was run 3 times (gpt-4o-mini, temperature 0). Raw replies are recorded, so `PASS`, a format violation and an API error can be told apart; the app turns all three into "no alert".
@@ -59,7 +59,7 @@ Format violations and API errors: 0 in all 720 calls.
 ## Limits
 
 - 40 of 196 single-choice questions, chosen by us; one model; English version only.
-- `with_criteria` gives the model the same text the labels were taken from, so part of its 100% recall is expected. It still matters because the app has this text and does not use it.
+- `with_criteria` gives the model the same text the labels were taken from, so part of its 100% recall is expected. It still matters because the app already shows this text on screen; it is only the LLM alert that does not see it.
 - The clinical summary and the RAG chatbot are not evaluated here (the chatbot's documents are not in this repository).
 
 ## Re-run
