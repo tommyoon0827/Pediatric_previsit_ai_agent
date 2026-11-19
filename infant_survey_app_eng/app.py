@@ -9,8 +9,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, date
 
-# --- [API Configuration] ---
-os.environ["OPENAI_API_KEY"] = "sk-" 
+# --- [API Configuration] --- the key comes from the OPENAI_API_KEY environment variable
 
 # --- [Library Load Exception Handling] ---
 try:
