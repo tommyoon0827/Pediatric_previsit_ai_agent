@@ -75,54 +75,52 @@ Details, results and how to re-run: [eval/README.md](eval/README.md)
 
 ---
 
-##  Directory Structure
+## Directory Structure
+
 ```plaintext
 root/
-│── README.md
-│── README_KR.md
-│── images/
-│── infant_survey_app_kor/
-│     ├── config/
-│     ├── data/
-│     ├── modules/
-│     ├── agents/
-│     └── streamlit_app.py
-│── infant_survey_app_eng/
-      ├── config/
-      ├── data/
-      ├── modules/
-      ├── agents/
-      └── streamlit_app.py
+├── README.md
+├── requirements.txt
+├── infant_survey_app_eng/        # English app (runnable)
+│   ├── app.py                    # Streamlit app
+│   ├── agents/chains.py          # RAG chatbot chain
+│   ├── config/questionnaires/    # age-specific questionnaire (JSON)
+│   ├── modules/                  # schema, response saving
+│   └── utils/                    # embeddings, vector store, splitters
+├── infant_survey_app/            # Korean questionnaire and modules (app code is in the English version)
+└── eval/                         # evaluation of the real-time risk alert
+```
 
-🛠️ Tech Stack
-Frontend: Streamlit
-AI / LLM: LangChain, OpenAI GPT-4o-mini
-Vector DB: ChromaDB or FAISS
-Utilities: Pydantic, ReportLab
-Format: Python, Jupyter Notebook (setup)
+## Tech Stack
 
-🔧 Installation & Usage
-1. Clone Repository
-git clone https://github.com/yourname/pediatric-previsit-cdss.git
-cd pediatric-previsit-cdss
+- Frontend: Streamlit
+- AI / LLM: LangChain, OpenAI GPT-4o-mini
+- Vector DB: ChromaDB
+- Utilities: Pydantic, ReportLab
 
-2. Install Dependencies
-pip install -r requirements.txt
+## Installation & Usage
 
-3. Set Environment Variables (IMPORTANT)
-Create a .env file:
-OPENAI_API_KEY=your_api_key_here
+1. Clone the repository
+   ```bash
+   git clone https://github.com/tommyoon0827/Pediatric_previsit_ai_agent.git
+   cd Pediatric_previsit_ai_agent
+   ```
+2. Install dependencies (Python 3.10+)
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Set your OpenAI API key as an environment variable (the app reads `OPENAI_API_KEY`; it does not load a `.env` file)
+   ```bash
+   export OPENAI_API_KEY=...        # PowerShell: $env:OPENAI_API_KEY = Read-Host "key"
+   ```
+   Never commit API keys.
+4. Run the app from inside the app folder (paths such as `config/questionnaires/...` are relative)
+   ```bash
+   cd infant_survey_app_eng
+   streamlit run app.py
+   ```
+   The parenting chatbot answers from documents in `infant_survey_app_eng/data/docs/` (PDF, DOCX, TXT). The hospital documents are not included in this repository, so add your own to use the chatbot.
 
-Never commit your API keys to GitHub.
-Use .gitignore to protect secrets.
+## License
 
-4. Run the App
-Korean version
-streamlit run infant_survey_app_kor/streamlit_app.py
-
-
-English version
-streamlit run infant_survey_app_eng/streamlit_app.py
-
-License
 MIT License © 2025 Yoon
