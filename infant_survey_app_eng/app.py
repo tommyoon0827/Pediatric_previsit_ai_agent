@@ -117,8 +117,8 @@ def generate_clinical_summary(responses, child_info):
         context = ""
         for item in responses:
             ans = item['answer']
-            # Skip negative answers for summary focus
-            if ans and ans not in ["No", "Not at all", "None"]: 
+            # Send every answered item; whether "Yes" or "No" is the concerning answer depends on the question
+            if ans not in (None, "", []):
                 context += f"- Q: {item['text']}\n  A: {ans}\n"
         if not context: context = "No significant findings."
 
@@ -147,6 +147,14 @@ def generate_clinical_summary(responses, child_info):
     except Exception as e:
         return f"Error during AI analysis: {str(e)}"
 
+def to_pdf_markup(text):
+    """Turn the LLM's markdown-style text into ReportLab paragraph markup."""
+    text = str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
+    text = re.sub(r"(?m)^\s*[-*] ", "• ", text)
+    text = text.replace("※", "Note:")  # Helvetica has no glyph for this mark
+    return text.replace("\n", "<br/>")
+
 def create_pdf_report(payload):
     """
     Converts result data into a PDF file.
@@ -170,13 +178,15 @@ def create_pdf_report(payload):
 
     # AI Summary
     story.append(Paragraph("<b>[AI Clinical Analysis Report]</b>", head_style))
-    story.append(Paragraph(payload.get('ai_summary','').replace('\n','<br/>'), norm_style))
+    story.append(Paragraph(to_pdf_markup(payload.get('ai_summary', '')), norm_style))
     story.append(Spacer(1, 15))
 
     # Detailed Responses
     story.append(Paragraph("<b>[Survey Details]</b>", head_style))
     for r in payload['responses']:
-        story.append(Paragraph(f"Q. {r['text']}<br/>A. <b>{r['answer']}</b>", norm_style))
+        if r['answer'] in (None, "", []):
+            continue
+        story.append(Paragraph(f"Q. {to_pdf_markup(r['text'])}<br/>A. <b>{to_pdf_markup(r['answer'])}</b>", norm_style))
         story.append(Spacer(1, 5))
 
     doc.build(story)
