@@ -39,7 +39,6 @@ Automatically calculates the child's age in days and loads the correct age-appro
 
 ### 2. AI Parenting Chatbot (RAG-based)  
 Provides evidence-based Q&A using vector search over pediatric medical documents.  
-<img width="621" height="308" alt="image" src="https://github.com/user-attachments/assets/2653369a-adac-4292-ac0a-5290e5617fd0" />
 
 
 ---
