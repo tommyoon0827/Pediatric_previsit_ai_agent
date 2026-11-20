@@ -8,7 +8,7 @@
 ---
 
 ## Project Overview
-**Smart Pediatric Pre-visit Survey & CDSS Agent** is an intelligent pediatric pre-visit survey and clinical decision-support system developed using data from the Woori Children’s Hospital. The questionnaires exist in Korean and English; the runnable app is the English version.
+**Smart Pediatric Pre-visit Survey & CDSS Agent** is an intelligent pediatric pre-visit survey and clinical decision-support system developed using pre-visit materials from a pediatric hospital in Korea. The questionnaires exist in Korean and English; the runnable app is the English version.
 
 The system provides:  
 - A **dynamic age-specific survey**,  
