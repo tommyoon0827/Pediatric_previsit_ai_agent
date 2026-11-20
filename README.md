@@ -4,12 +4,11 @@
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI_GPT--4o--mini-412991.svg)  
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-1C3C3C.svg)  
 
-**For Korean documentation, please see [README_KR.md](./README_KR.md).**
 
 ---
 
 ## Project Overview
-**Smart Pediatric Pre-visit Survey & CDSS Agent** is an intelligent pediatric pre-visit survey and clinical decision-support system developed using data from the Woori Children’s Hospital. It supports both Korean and English for seamless use in diverse clinical environments.
+**Smart Pediatric Pre-visit Survey & CDSS Agent** is an intelligent pediatric pre-visit survey and clinical decision-support system developed using data from the Woori Children’s Hospital. The questionnaires exist in Korean and English; the runnable app is the English version.
 
 The system provides:  
 - A **dynamic age-specific survey**,  
@@ -18,11 +17,12 @@ The system provides:
 - **Real-time warning detection**, and  
 - **Downloadable PDF reports** for caregivers and clinicians.
 
-The repository includes two localized versions:
+The repository has two folders:
 
-
-infant_survey_app_kor/ # Korean UI & responses
-infant_survey_app_eng/ # English UI & responses
+```
+infant_survey_app_eng/  # English app (Streamlit) and questionnaires
+infant_survey_app/      # Korean questionnaires and modules
+```
 
 
 ---
@@ -31,6 +31,7 @@ infant_survey_app_eng/ # English UI & responses
 
 ### 1. Dynamic Survey Generation  
 Automatically calculates the child's age in days and loads the correct age-appropriate survey.  
+![Age-specific survey](docs/survey.png)
 
 
 
@@ -45,7 +46,7 @@ Provides evidence-based Q&A using vector search over pediatric medical documents
 
 ### 3. Clinical CDSS Summary for Physicians  
 Generates a structured medical summary and risk notes based on survey responses.  
-<img width="621" height="291" alt="image" src="https://github.com/user-attachments/assets/0068bf6e-8ab8-4b32-90a9-e1d12079aab2" />
+![Clinical summary](docs/clinical-summary.png)
 
 
 
@@ -53,7 +54,7 @@ Generates a structured medical summary and risk notes based on survey responses.
 
 ### 4. Real-time Risk Detection  
 Instant alerts fire when guardian inputs indicate urgent or abnormal symptoms.  
-<img width="1641" height="675" alt="image" src="https://github.com/user-attachments/assets/6d396062-0389-4dc3-b019-ebd766d0eed6" />
+![Real-time risk alert](docs/risk-alert.png)
 
 
 
@@ -61,7 +62,7 @@ Instant alerts fire when guardian inputs indicate urgent or abnormal symptoms.
 
 ### 5. PDF Report Generation  
 Caregivers and clinicians can download a comprehensive PDF report.  
-<img width="215" height="301" alt="image" src="https://github.com/user-attachments/assets/3e4340de-5994-4f57-b4a5-f0251c167f6a" />
+![PDF report](docs/pdf-report.png)
 
 
 ---
